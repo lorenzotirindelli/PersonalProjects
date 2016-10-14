@@ -1,0 +1,25 @@
+body {
+    padding-top: 70px;
+    background-image: url("asserts/bgek.png");
+    background-repeat: repeat;
+}
+.colOuter {
+    border-radius: 3px;
+    background-color: white;
+}
+.slider {
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
+.sliderRow {
+    padding-bottom: 20px;
+}
+.navbar {
+    background: rgba(0, 0, 0, 0.85);
+}
+.navbar-inverse .navbar-nav > li > a {
+    text-transform: uppercase;
+}
+.navbar-brand {
+    text-transform: uppercase;
+}
